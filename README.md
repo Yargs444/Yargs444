@@ -10,7 +10,6 @@
 
 
 ![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=Yargs444&show_icons=true&theme=gotham&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yargs444&Compact_layout=true)
 
 ## Tecnologias que eu uso no meu dia
